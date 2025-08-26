@@ -4,6 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/OVAIS69/Travel-Website?color=brightgreen)  
 ![GitHub stars](https://img.shields.io/github/stars/OVAIS69/Travel-Website?style=social)  
 **Live Demo For Desktop Only**
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-orange?style=for-the-badge)](https://ovais69.github.io/Travel-Website/)
 
 **Travel & Explore** is a modern, responsive web template built to inspire wanderlust and showcase destinations. A clean landing page designed to highlight travel passion, perfect for portfolios, destination guides, or inspirational travel blogs.
